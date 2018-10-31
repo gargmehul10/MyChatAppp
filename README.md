@@ -1,12 +1,12 @@
 # MyChatAppp
 Chat Application 
 
-# FEATURES IMPLEMENTED:
+## FEATURES IMPLEMENTED:
  - It is a peer-to-peer based chat application i.e. any two people can chat among themselves.
  - Multiple clients can talk among themselves by changing the ip-address and target port respectively.
  - They can also send a file to each other.
 
-# SECURITY:
+## SECURITY:
    - **Confidentiality**
       * The chat messages can be secured using AES or DES (depending upon the user's choice) using a secret key.
       * The secret key is secured using RSA which can only be decrypted by the receiver.
@@ -18,7 +18,7 @@ Chat Application
    - **Authenticity**
       * Receiver calculates the hash of the message received and compares the hash received to check whether the message was 		 sent by the correct sender.
 
-# HOW TO USE:
+## HOW TO USE:
   Step-1: Run the MyChatAppp.jar file. (--> minimum system requirement jdk-8 <--)
   
   Step-2: Enter your name and press OK button.
