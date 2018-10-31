@@ -12,7 +12,7 @@ Chat Application
       * The secret key is secured using RSA which can only be decrypted by the receiver.
 
    - **Integrity**
-      * We generate hash of the encrypted message using MD-5 of 128 bit which is concatenated with the encrypted message.
+      * Hash of the encrypted message is generated using MD-5 of 128 bit which is concatenated with the encrypted message.
       * A change of 1 bit in the message will change the hash by 50%. Thus, integrity is maintained.
 	
    - **Authenticity**
@@ -20,8 +20,12 @@ Chat Application
 
 # HOW TO USE:
   Step-1: Run the MyChatAppp.jar file. (--> minimum system requirement jdk-8 <--)
+  
   Step-2: Enter your name and press OK button.
+  
   Step-3: Enter your port, receiver's ip-address and his port and press listen button. (make sure the receiver is also active and 
           listening)
+  
   Step-4: Select encryption AES or DES.
+  
   Step-5: Enter the message and press send or click 'Send File' to send a file from your PC.
