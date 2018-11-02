@@ -8,7 +8,7 @@ Chat Application
 
 ## SECURITY:
    - **Confidentiality**
-      * The chat messages can be secured using AES or DES (depending upon the user's choice) using a secret key.
+      * The chat messages can be secured using AES (128 bit) or DES (64 bit) (depending upon the user's choice) using a secret key.
       * The secret key is secured using RSA which can only be decrypted by the receiver.
 
    - **Integrity**
@@ -24,7 +24,7 @@ Chat Application
   **Step-2:** Enter your name and press OK button.
   
   **Step-3:** Enter your port, receiver's ip-address and his port and press listen button. (make sure the receiver is also active and 
-          listening)
+              listening)
   
   **Step-4:** Select encryption AES or DES.
   
