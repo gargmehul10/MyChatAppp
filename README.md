@@ -30,7 +30,7 @@ Chat Application
   
   **Step-5:** Enter the message and press send or click 'Send File' to send a file from your PC.
   
-## Screenshots
+## SCREENSHOTS:
 <img src="https://github.com/gargmehul10/MyChatAppp/blob/master/Screenshot_1.png" height="400" alt="Screenshot"/> 
 <img src="https://github.com/gargmehul10/MyChatAppp/blob/master/Screenshot_2.png" height="400" alt="Screenshot"/>
 <img src="https://github.com/gargmehul10/MyChatAppp/blob/master/Screenshot_3.png" height="400" alt="Screenshot"/> 
